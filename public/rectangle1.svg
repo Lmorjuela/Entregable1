@@ -1,17 +1,34 @@
-<svg width="640" height="259" viewBox="0 0 640 259" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_145_1359)">
-<path d="M0 19.9344C0 19.9344 138.762 64.7867 281.262 19.9344C423.762 -24.918 627 19.9344 627 19.9344V225.508C627 225.508 454.598 180.189 313.5 225.508C172.402 270.828 0 225.508 0 225.508V19.9344Z" fill="white"/>
-</g>
-<defs>
-<filter id="filter0_d_145_1359" x="0" y="0" width="640" height="258.65" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="12" dy="12"/>
-<feGaussianBlur stdDeviation="0.5"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_145_1359"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_145_1359" result="shape"/>
-</filter>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Versión de evaluación) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="169.418mm" height="69.2241mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 448.97 183.45"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:white;fill-rule:nonzero}
+    .fil0 {fill:#727271;fill-rule:nonzero;fill-opacity:0.380392}
+    .fil2 {fill:#727271;fill-rule:nonzero;fill-opacity:0.529412}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2801131022864">
+   <g filter="url(#filter0_d_145_1359)">
+    <path class="fil0" d="M9.34 25.18c0,0 97.3,31.45 197.21,0 99.91,-31.45 242.42,0 242.42,0l0 144.14c0,0 -120.88,-31.78 -219.82,0 -98.93,31.78 -219.82,0 -219.82,0l0 -144.14 -0 0z"/>
+   </g>
+  </g>
+  <g id="_2801131028192">
+   <g filter="url(#filter0_d_145_1359)">
+    <path class="fil1" d="M-0 13.98c0,0 97.3,31.45 197.21,0 99.91,-31.45 242.42,0 242.42,0l0 144.14c0,0 -120.88,-31.78 -219.82,0 -98.93,31.78 -219.82,0 -219.82,0l0 -144.14 -0 0z"/>
+   </g>
+  </g>
+  <g id="_2801131034000">
+   <path class="fil2" d="M367 99.46c0,-2.03 0.71,-3.78 2.11,-5.29 1.43,-1.51 3.28,-2.27 5.57,-2.27 2.8,0 5.09,1.25 6.87,3.75 1.77,2.51 2.66,5.31 2.66,8.39 0,4.54 -1.6,9.11 -4.81,13.73 -3.21,4.62 -5.41,6.93 -6.62,6.93 -0.33,0 -1.01,-0.38 -2.04,-1.15l-0.5 -0.36c-0.86,-0.57 -1.29,-1.03 -1.29,-1.36 0,-0.24 0.45,-1 1.34,-2.27 2.49,-3.59 3.75,-6.41 3.75,-8.46 0,-1.58 -0.81,-2.92 -2.41,-4.04 -1.6,-1.1 -2.77,-2.3 -3.52,-3.58 -0.74,-1.27 -1.12,-2.61 -1.12,-4.02l-0 -0z"/>
+   <path class="fil2" d="M389.69 99.46c0,-2.06 0.72,-3.83 2.17,-5.33 1.46,-1.5 3.3,-2.23 5.52,-2.23 2.8,0 5.09,1.25 6.87,3.75 1.77,2.51 2.66,5.31 2.66,8.39 0,2.22 -0.52,4.74 -1.56,7.58 -1.05,2.85 -2.73,5.74 -5.05,8.68 -2.3,2.94 -3.92,4.4 -4.81,4.4 -0.33,0 -1.01,-0.38 -2.04,-1.15l-0.5 -0.36c-0.86,-0.57 -1.29,-1.03 -1.29,-1.36 0,-0.24 0.45,-1 1.34,-2.27 2.49,-3.59 3.75,-6.41 3.75,-8.46 0,-1.01 -0.24,-1.81 -0.69,-2.41 -0.45,-0.58 -1.29,-1.34 -2.51,-2.25 -1.24,-0.93 -2.18,-1.98 -2.85,-3.16 -0.67,-1.17 -1,-2.44 -1,-3.82l-0 -0z"/>
+  </g>
+ </g>
 </svg>
