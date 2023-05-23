@@ -47,14 +47,12 @@
     position: absolute;
 }
 
-.phraseCard{    
+.phraseCard{ 
+    text-align: center;    
     color: var(--textCard);
     z-index: 10;
     font-size: 25px;
     width: 100%;
-    position: relative;
-    top: -30px;
-    text-align: center;
 }
 
 .button {
@@ -94,7 +92,7 @@
      }
  
      .card{
-         max-width: 280px;
+         max-width: 300px;
          font-size: 5px;
      }
  
@@ -105,9 +103,7 @@
      }
  
      .phraseCard{ 
-         font-size: 17px;
-         top: -15px;
-         text-align: left;
+         font-size: 18px;
      }
  }
 
@@ -170,8 +166,6 @@
  
      .phraseCard{ 
          font-size: 15px;
-         top:-15px;
-         text-align: left;
      }
  }
  
