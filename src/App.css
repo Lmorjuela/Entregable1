@@ -56,7 +56,7 @@
 }
 
 .button {
-    width:8rem;
+    width:15rem;
     height: 4rem;
     border-radius: 12px;
     background-color: var(--button);
@@ -98,6 +98,7 @@
  
      .button{
          bottom: 120px;
+         width: 10rem;
          
      }
  
@@ -112,8 +113,7 @@
     font-size: 1.8rem;
     padding-left: 10px;
     padding-right: 10px;
-    top:70px;
-}
+    }
     
     .image{
     padding-left: 10px;
@@ -127,10 +127,8 @@
     }
 
     .button{
-        bottom: 70px;
         height: 2.6rem;
         font-size: 1rem;
-        
     }
 
     .phraseCard{ 
@@ -160,6 +158,7 @@
  
      .button{
          bottom: 30px;
+         width: 10rem;
          height: 2.6rem;
          font-size: 1rem;
          
@@ -192,6 +191,7 @@
  
      .button{
          bottom: 15px;
+         width: 10rem;
          height: 2.6rem;
          font-size: 1rem;
          
