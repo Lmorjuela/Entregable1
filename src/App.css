@@ -27,9 +27,9 @@
     color:var(--textTitle);
     text-shadow: var(--shadowTitle);
     text-align: center;
-    font-size: 4rem;
-    top: 100px;
-    position: fixed;
+    font-size: 2.5rem;
+    top: 90px;
+    position: absolute;
 }
 
 .card{
@@ -37,13 +37,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 700px;
+    max-width: 300px;
 }
 
 
 .image{
-    width: 100%;
-    height:300px;
+    width:450px;
+    height:200px;
     position: absolute;
 }
 
@@ -51,13 +51,13 @@
     text-align: center;    
     color: var(--textCard);
     z-index: 10;
-    font-size: 25px;
+    font-size:18px;
     width: 100%;
 }
 
 .button {
-    width:15rem;
-    height: 4rem;
+    width:10rem;
+    height: 3rem;
     border-radius: 12px;
     background-color: var(--button);
     color: var(--textButton);
@@ -67,8 +67,8 @@
     border-style: solid;
     border-color: var(--borderButton);
     cursor: pointer;
-    position: fixed;
-    bottom: 150px
+    bottom: 100px;
+    position: absolute;
 }
 
 .button:hover {
@@ -76,128 +76,34 @@
     opacity: 80%;
 }
 
-@media (max-width: 720px){
-
+@media (max-width: 350px){
     .app h1{
-     font-size: 2.8rem;
-     padding-left: 10px;
-     padding-right: 10px;
-     top: 120px;
- }
-     
-     .image{
-     padding-left: 10px;
-     padding-right: 10px;
-     height:320px;
-     }
- 
-     .card{
-         max-width: 300px;
-         font-size: 5px;
-     }
- 
-     .button{
-         bottom: 120px;
-         width: 10rem;
-         
-     }
- 
-     .phraseCard{ 
-         font-size: 18px;
-     }
- }
-
-@media (max-width: 320px){
-
-   .app h1{
-    font-size: 1.8rem;
-    padding-left: 10px;
-    padding-right: 10px;
+        font-size: 1.5rem;
+        top: 80px;
+        position: absolute;
     }
-    
+
     .image{
-    padding-left: 10px;
-    padding-right: 10px;
-    height:320px;
+        width:300px;
+        height:150px;
+        position: absolute;
     }
 
+    
     .card{
-        max-width: 250px;
-        font-size: 5px;
-    }
-
-    .button{
-        height: 2.6rem;
-        font-size: 1rem;
+    max-width: 250px;
     }
 
     .phraseCard{ 
-        font-size: 15px;
+        font-size:15px;
+        width: 100%;
     }
+
+    .button {
+        width: 6rem;
+        height: 2rem;
+        font-size:18px;
+        bottom: 95px;
+    }
+
 }
-
-@media (max-height: 500px){
-
-    .app h1{
-     font-size: 1.8rem;
-     padding-left: 10px;
-     padding-right: 10px;
-     top:30px;
- }
-     
-     .image{
-     padding-left: 10px;
-     padding-right: 10px;
-     height:150px;
-     }
- 
-     .card{
-         max-width: 250px;
-         font-size: 5px;
-     }
- 
-     .button{
-         bottom: 30px;
-         width: 10rem;
-         height: 2.6rem;
-         font-size: 1rem;
-         
-     }
- 
-     .phraseCard{ 
-         font-size: 15px;
-     }
- }
- 
- @media (max-height: 300px){
-
-    .app h1{
-     font-size: 1.5rem;
-     padding-left: 10px;
-     padding-right: 10px;
-     top:30px;
- }
-     
-     .image{
-     padding-left: 10px;
-     padding-right: 10px;
-     height:120px;
-     }
- 
-     .card{
-         max-width: 250px;
-         font-size: 5px;
-     }
- 
-     .button{
-         bottom: 15px;
-         width: 10rem;
-         height: 2.6rem;
-         font-size: 1rem;
-         
-     }
- 
-     .phraseCard{ 
-         font-size: 15px;
-     }
- }
